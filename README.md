@@ -1,0 +1,2 @@
+# exercises
+Private python exercises
